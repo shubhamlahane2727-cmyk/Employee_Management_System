@@ -1,0 +1,251 @@
+QualificationID,EmployeeID,Degree,Specialization,University,GraduationYear,CGPA,Certification
+1,1,B.Tech,Information Technology,Savitribai Phule Pune University,2019,9.57,Power BI
+2,1,MBA,Finance,University of Mumbai,2023,6.77,Tableau
+3,2,MBA,Marketing,VTU Belagavi,2020,8.83,Tableau
+4,2,B.Tech,Information Technology,MGM University,2018,6.52,Power BI
+5,3,B.Tech,Information Technology,MGM University,2023,7.14,None
+6,3,B.Tech,Information Technology,Savitribai Phule Pune University,2017,6.56,SQL
+7,4,MBA,Marketing,Savitribai Phule Pune University,2025,7.27,Power BI
+8,4,B.Tech,Computer Science,Delhi University,2024,6.63,AWS Cloud Practitioner
+9,5,MBA,Marketing,Savitribai Phule Pune University,2017,6.67,SQL
+10,5,B.Tech,Computer Science,University of Mumbai,2022,6.78,Google Data Analytics
+11,6,MBA,Marketing,Savitribai Phule Pune University,2025,8.77,Tableau
+12,6,MBA,Finance,Savitribai Phule Pune University,2021,8.47,Tableau
+13,7,MBA,Marketing,Savitribai Phule Pune University,2021,9.44,Tableau
+14,7,B.Tech,Information Technology,University of Mumbai,2019,7.37,SQL
+15,8,MBA,Marketing,MGM University,2021,7.63,Power BI
+16,8,B.Tech,Computer Science,SPPU,2016,8.73,Microsoft Excel
+17,9,MBA,Finance,VTU Belagavi,2023,7.63,Microsoft Excel
+18,9,M.Tech,Data Science,Savitribai Phule Pune University,2024,7.99,Power BI
+19,10,MBA,Finance,University of Mumbai,2017,9.0,Python
+20,10,B.Tech,Information Technology,MGM University,2016,6.94,Python
+21,11,M.Tech,Data Science,Delhi University,2017,8.96,SQL
+22,11,M.Tech,Data Science,JNTU Hyderabad,2016,7.82,Tableau
+23,12,M.Tech,Data Science,VTU Belagavi,2016,9.39,Python
+24,12,B.Com,Accounting,Delhi University,2021,8.42,AWS Cloud Practitioner
+25,13,M.Tech,Data Science,University of Mumbai,2023,9.02,None
+26,13,BBA,Human Resources,MGM University,2018,9.39,SQL
+27,14,B.Com,Accounting,Delhi University,2016,8.83,AWS Cloud Practitioner
+28,14,M.Tech,Data Science,JNTU Hyderabad,2022,7.57,Microsoft Excel
+29,15,M.Tech,Data Science,University of Mumbai,2024,6.8,None
+30,15,MBA,Finance,SPPU,2025,7.77,Microsoft Excel
+31,16,B.Tech,Computer Science,JNTU Hyderabad,2017,8.68,None
+32,16,B.Tech,Information Technology,JNTU Hyderabad,2018,7.76,Python
+33,17,BBA,Human Resources,MGM University,2021,8.73,Google Data Analytics
+34,17,B.Com,Accounting,University of Mumbai,2021,9.64,Power BI
+35,18,BBA,Human Resources,Savitribai Phule Pune University,2023,8.58,Microsoft Excel
+36,18,B.Com,Accounting,VTU Belagavi,2017,9.16,Google Data Analytics
+37,19,MBA,Finance,SPPU,2016,6.55,None
+38,19,B.Com,Accounting,MGM University,2019,7.27,Python
+39,20,B.Tech,Information Technology,JNTU Hyderabad,2022,7.49,AWS Cloud Practitioner
+40,20,MBA,Marketing,University of Mumbai,2018,8.27,Google Data Analytics
+41,21,BBA,Human Resources,SPPU,2019,9.47,SQL
+42,21,M.Tech,Data Science,University of Mumbai,2025,8.74,Tableau
+43,22,MBA,Marketing,VTU Belagavi,2016,7.68,AWS Cloud Practitioner
+44,22,B.Com,Accounting,University of Mumbai,2023,8.08,SQL
+45,23,B.Tech,Information Technology,VTU Belagavi,2022,9.03,Python
+46,23,B.Com,Accounting,MGM University,2025,9.3,Python
+47,24,B.Tech,Computer Science,Savitribai Phule Pune University,2025,7.85,Tableau
+48,24,MBA,Finance,JNTU Hyderabad,2020,8.57,Power BI
+49,25,M.Tech,Data Science,University of Mumbai,2024,9.22,Microsoft Excel
+50,25,BBA,Human Resources,SPPU,2021,8.65,Power BI
+51,26,B.Com,Accounting,University of Mumbai,2021,8.24,None
+52,26,M.Tech,Data Science,Delhi University,2022,8.01,Tableau
+53,27,MBA,Finance,University of Mumbai,2020,7.56,Tableau
+54,27,MBA,Marketing,JNTU Hyderabad,2019,9.14,Power BI
+55,28,B.Tech,Information Technology,Savitribai Phule Pune University,2018,9.64,Microsoft Excel
+56,28,B.Com,Accounting,JNTU Hyderabad,2018,7.82,None
+57,29,B.Tech,Information Technology,University of Mumbai,2022,7.0,None
+58,29,MBA,Finance,Savitribai Phule Pune University,2024,9.38,Microsoft Excel
+59,30,MBA,Marketing,Savitribai Phule Pune University,2016,8.41,Tableau
+60,30,B.Com,Accounting,MGM University,2019,7.15,Power BI
+61,31,MBA,Marketing,MGM University,2023,9.72,AWS Cloud Practitioner
+62,31,B.Tech,Information Technology,VTU Belagavi,2024,8.8,AWS Cloud Practitioner
+63,32,M.Tech,Data Science,SPPU,2021,7.24,SQL
+64,32,BBA,Human Resources,VTU Belagavi,2021,8.24,None
+65,33,MBA,Marketing,SPPU,2017,7.37,Google Data Analytics
+66,33,BBA,Human Resources,Savitribai Phule Pune University,2021,6.59,Google Data Analytics
+67,34,B.Com,Accounting,Delhi University,2017,8.19,Power BI
+68,34,BBA,Human Resources,JNTU Hyderabad,2020,8.35,Google Data Analytics
+69,35,MBA,Finance,VTU Belagavi,2025,7.65,AWS Cloud Practitioner
+70,35,B.Com,Accounting,VTU Belagavi,2018,8.64,SQL
+71,36,BBA,Human Resources,MGM University,2019,8.16,Google Data Analytics
+72,36,B.Tech,Information Technology,Savitribai Phule Pune University,2024,9.48,Microsoft Excel
+73,37,MBA,Marketing,SPPU,2021,7.11,None
+74,37,MBA,Marketing,Savitribai Phule Pune University,2017,8.93,Google Data Analytics
+75,38,B.Com,Accounting,JNTU Hyderabad,2023,7.59,Microsoft Excel
+76,38,MBA,Finance,VTU Belagavi,2023,9.33,Tableau
+77,39,B.Com,Accounting,JNTU Hyderabad,2020,8.47,Python
+78,39,B.Tech,Information Technology,VTU Belagavi,2019,7.94,AWS Cloud Practitioner
+79,40,MBA,Marketing,University of Mumbai,2023,7.19,AWS Cloud Practitioner
+80,40,B.Com,Accounting,Savitribai Phule Pune University,2017,6.57,AWS Cloud Practitioner
+81,41,MBA,Marketing,Savitribai Phule Pune University,2024,7.59,Google Data Analytics
+82,41,M.Tech,Data Science,SPPU,2025,7.38,Python
+83,42,B.Com,Accounting,Delhi University,2017,6.98,AWS Cloud Practitioner
+84,42,B.Tech,Information Technology,MGM University,2020,8.69,Power BI
+85,43,B.Tech,Information Technology,University of Mumbai,2023,9.52,Power BI
+86,43,MBA,Finance,University of Mumbai,2024,9.19,Google Data Analytics
+87,44,MBA,Finance,Delhi University,2023,8.22,Tableau
+88,44,MBA,Marketing,VTU Belagavi,2018,6.8,Google Data Analytics
+89,45,MBA,Finance,University of Mumbai,2022,7.18,None
+90,45,M.Tech,Data Science,Savitribai Phule Pune University,2024,8.22,None
+91,46,B.Com,Accounting,Savitribai Phule Pune University,2025,8.74,Google Data Analytics
+92,46,MBA,Marketing,Savitribai Phule Pune University,2022,8.24,Tableau
+93,47,B.Tech,Information Technology,MGM University,2025,7.56,SQL
+94,47,MBA,Finance,University of Mumbai,2024,7.35,Tableau
+95,48,MBA,Finance,JNTU Hyderabad,2016,9.01,Python
+96,48,B.Tech,Computer Science,University of Mumbai,2024,6.71,None
+97,49,MBA,Finance,MGM University,2023,7.3,SQL
+98,49,BBA,Human Resources,VTU Belagavi,2021,7.66,AWS Cloud Practitioner
+99,50,MBA,Marketing,MGM University,2023,8.72,AWS Cloud Practitioner
+100,50,MBA,Marketing,University of Mumbai,2025,6.68,Microsoft Excel
+101,51,BBA,Human Resources,Savitribai Phule Pune University,2020,9.15,Microsoft Excel
+102,52,B.Tech,Computer Science,MGM University,2025,8.27,AWS Cloud Practitioner
+103,53,BBA,Human Resources,SPPU,2020,9.49,Microsoft Excel
+104,54,M.Tech,Data Science,Delhi University,2024,9.11,Power BI
+105,55,M.Tech,Data Science,University of Mumbai,2024,8.1,Power BI
+106,56,MBA,Marketing,Delhi University,2020,9.77,Power BI
+107,57,B.Tech,Computer Science,University of Mumbai,2021,8.18,Microsoft Excel
+108,58,BBA,Human Resources,VTU Belagavi,2022,9.48,SQL
+109,59,MBA,Marketing,Savitribai Phule Pune University,2022,8.33,Python
+110,60,B.Com,Accounting,Delhi University,2017,8.09,None
+111,61,B.Com,Accounting,VTU Belagavi,2025,7.97,Google Data Analytics
+112,62,MBA,Marketing,University of Mumbai,2017,9.03,SQL
+113,63,BBA,Human Resources,SPPU,2016,6.53,SQL
+114,64,B.Tech,Information Technology,Savitribai Phule Pune University,2021,7.98,Google Data Analytics
+115,65,B.Tech,Information Technology,Delhi University,2020,8.33,Power BI
+116,66,M.Tech,Data Science,Delhi University,2019,7.37,Google Data Analytics
+117,67,MBA,Marketing,Delhi University,2019,9.39,SQL
+118,68,B.Tech,Information Technology,JNTU Hyderabad,2020,7.83,None
+119,69,B.Tech,Computer Science,VTU Belagavi,2016,8.75,Microsoft Excel
+120,70,MBA,Finance,VTU Belagavi,2020,7.62,Tableau
+121,71,BBA,Human Resources,VTU Belagavi,2016,7.81,AWS Cloud Practitioner
+122,72,MBA,Finance,University of Mumbai,2023,9.4,None
+123,73,B.Tech,Computer Science,SPPU,2019,7.41,None
+124,74,B.Tech,Computer Science,Delhi University,2024,8.02,Google Data Analytics
+125,75,B.Tech,Computer Science,Savitribai Phule Pune University,2016,9.48,Microsoft Excel
+126,76,MBA,Finance,SPPU,2023,8.27,None
+127,77,MBA,Finance,Savitribai Phule Pune University,2017,9.62,Google Data Analytics
+128,78,MBA,Marketing,University of Mumbai,2016,7.58,Python
+129,79,M.Tech,Data Science,JNTU Hyderabad,2020,8.38,Python
+130,80,MBA,Marketing,JNTU Hyderabad,2021,6.98,SQL
+131,81,M.Tech,Data Science,University of Mumbai,2019,9.3,Power BI
+132,82,B.Tech,Information Technology,SPPU,2020,8.97,Tableau
+133,83,B.Tech,Computer Science,University of Mumbai,2017,7.55,Tableau
+134,84,BBA,Human Resources,MGM University,2021,8.17,Microsoft Excel
+135,85,B.Tech,Computer Science,SPPU,2025,9.54,Python
+136,86,MBA,Marketing,Savitribai Phule Pune University,2018,8.59,None
+137,87,B.Tech,Computer Science,VTU Belagavi,2019,8.52,SQL
+138,88,B.Com,Accounting,VTU Belagavi,2022,7.65,Power BI
+139,89,MBA,Marketing,SPPU,2019,6.81,SQL
+140,90,B.Tech,Information Technology,VTU Belagavi,2018,6.53,Python
+141,91,B.Tech,Computer Science,Delhi University,2023,8.81,Microsoft Excel
+142,92,B.Tech,Information Technology,Savitribai Phule Pune University,2020,7.45,Microsoft Excel
+143,93,M.Tech,Data Science,JNTU Hyderabad,2018,7.39,Microsoft Excel
+144,94,M.Tech,Data Science,University of Mumbai,2019,7.21,None
+145,95,BBA,Human Resources,Delhi University,2021,6.62,Tableau
+146,96,B.Tech,Information Technology,VTU Belagavi,2023,9.53,SQL
+147,97,MBA,Finance,JNTU Hyderabad,2016,8.01,None
+148,98,B.Tech,Computer Science,VTU Belagavi,2023,9.05,Tableau
+149,99,B.Tech,Information Technology,University of Mumbai,2018,6.9,Tableau
+150,100,B.Tech,Computer Science,VTU Belagavi,2023,7.63,Python
+151,101,BBA,Human Resources,Savitribai Phule Pune University,2022,6.56,Google Data Analytics
+152,102,M.Tech,Data Science,JNTU Hyderabad,2024,9.59,Google Data Analytics
+153,103,B.Tech,Computer Science,Savitribai Phule Pune University,2018,8.61,Microsoft Excel
+154,104,B.Com,Accounting,Delhi University,2022,8.71,Microsoft Excel
+155,105,M.Tech,Data Science,MGM University,2017,7.46,Power BI
+156,106,M.Tech,Data Science,Savitribai Phule Pune University,2022,7.76,SQL
+157,107,B.Tech,Computer Science,Delhi University,2023,8.89,Microsoft Excel
+158,108,MBA,Marketing,JNTU Hyderabad,2018,6.94,Python
+159,109,B.Tech,Computer Science,Savitribai Phule Pune University,2020,8.35,Power BI
+160,110,MBA,Finance,MGM University,2020,6.55,Microsoft Excel
+161,111,MBA,Marketing,Delhi University,2018,9.0,None
+162,112,B.Tech,Information Technology,MGM University,2019,8.62,Google Data Analytics
+163,113,MBA,Marketing,University of Mumbai,2019,7.6,AWS Cloud Practitioner
+164,114,B.Tech,Computer Science,University of Mumbai,2023,8.39,AWS Cloud Practitioner
+165,115,MBA,Finance,MGM University,2021,9.79,Microsoft Excel
+166,116,B.Tech,Computer Science,SPPU,2023,9.41,Microsoft Excel
+167,117,BBA,Human Resources,SPPU,2018,9.02,Google Data Analytics
+168,118,B.Tech,Computer Science,SPPU,2022,7.45,Power BI
+169,119,MBA,Marketing,MGM University,2016,8.83,Tableau
+170,120,MBA,Marketing,Savitribai Phule Pune University,2024,8.59,None
+171,121,B.Tech,Computer Science,Savitribai Phule Pune University,2022,6.79,Tableau
+172,122,M.Tech,Data Science,University of Mumbai,2021,8.0,Power BI
+173,123,M.Tech,Data Science,MGM University,2016,9.43,Power BI
+174,124,M.Tech,Data Science,Savitribai Phule Pune University,2018,9.12,Google Data Analytics
+175,125,B.Com,Accounting,Savitribai Phule Pune University,2016,7.56,Google Data Analytics
+176,126,M.Tech,Data Science,Delhi University,2019,8.2,SQL
+177,127,B.Com,Accounting,JNTU Hyderabad,2019,8.49,Tableau
+178,128,M.Tech,Data Science,Delhi University,2022,8.14,Tableau
+179,129,B.Com,Accounting,SPPU,2019,7.4,Microsoft Excel
+180,130,BBA,Human Resources,University of Mumbai,2017,6.73,Python
+181,131,B.Com,Accounting,Savitribai Phule Pune University,2017,7.05,SQL
+182,132,MBA,Marketing,Savitribai Phule Pune University,2018,7.45,Tableau
+183,133,MBA,Finance,JNTU Hyderabad,2017,8.57,Tableau
+184,134,B.Tech,Information Technology,Savitribai Phule Pune University,2022,6.79,Power BI
+185,135,B.Tech,Computer Science,VTU Belagavi,2024,6.72,Python
+186,136,MBA,Marketing,University of Mumbai,2019,7.85,Python
+187,137,BBA,Human Resources,VTU Belagavi,2024,7.41,AWS Cloud Practitioner
+188,138,BBA,Human Resources,JNTU Hyderabad,2019,7.07,Tableau
+189,139,B.Tech,Information Technology,VTU Belagavi,2024,9.02,SQL
+190,140,MBA,Marketing,SPPU,2018,9.67,SQL
+191,141,B.Tech,Information Technology,JNTU Hyderabad,2019,8.57,Microsoft Excel
+192,142,M.Tech,Data Science,Savitribai Phule Pune University,2019,6.51,SQL
+193,143,MBA,Marketing,JNTU Hyderabad,2021,7.99,Power BI
+194,144,B.Tech,Computer Science,VTU Belagavi,2024,9.56,Microsoft Excel
+195,145,B.Tech,Information Technology,University of Mumbai,2021,7.72,Tableau
+196,146,MBA,Finance,Delhi University,2022,8.29,SQL
+197,147,B.Tech,Computer Science,University of Mumbai,2021,6.85,Microsoft Excel
+198,148,B.Tech,Computer Science,VTU Belagavi,2016,9.19,AWS Cloud Practitioner
+199,149,BBA,Human Resources,University of Mumbai,2020,8.97,SQL
+200,150,MBA,Finance,Savitribai Phule Pune University,2016,7.65,SQL
+201,151,M.Tech,Data Science,University of Mumbai,2020,7.2,Power BI
+202,152,B.Tech,Information Technology,Savitribai Phule Pune University,2016,9.66,Microsoft Excel
+203,153,B.Tech,Information Technology,MGM University,2023,9.75,Microsoft Excel
+204,154,B.Com,Accounting,JNTU Hyderabad,2022,8.59,Power BI
+205,155,MBA,Marketing,JNTU Hyderabad,2024,6.74,Power BI
+206,156,M.Tech,Data Science,University of Mumbai,2016,8.83,Microsoft Excel
+207,157,B.Com,Accounting,Delhi University,2016,9.4,None
+208,158,MBA,Marketing,VTU Belagavi,2021,7.0,SQL
+209,159,M.Tech,Data Science,VTU Belagavi,2020,9.43,Tableau
+210,160,B.Tech,Information Technology,MGM University,2017,8.38,Microsoft Excel
+211,161,MBA,Finance,University of Mumbai,2021,6.52,SQL
+212,162,B.Tech,Computer Science,MGM University,2020,9.31,Google Data Analytics
+213,163,B.Tech,Information Technology,SPPU,2017,8.08,Microsoft Excel
+214,164,B.Tech,Information Technology,Delhi University,2016,8.88,Google Data Analytics
+215,165,MBA,Finance,MGM University,2021,8.14,SQL
+216,166,B.Tech,Information Technology,SPPU,2020,8.16,Google Data Analytics
+217,167,M.Tech,Data Science,University of Mumbai,2022,9.14,None
+218,168,MBA,Marketing,JNTU Hyderabad,2023,9.24,Google Data Analytics
+219,169,B.Com,Accounting,MGM University,2024,8.62,AWS Cloud Practitioner
+220,170,B.Tech,Information Technology,JNTU Hyderabad,2024,8.2,Microsoft Excel
+221,171,MBA,Marketing,VTU Belagavi,2019,8.01,Power BI
+222,172,B.Tech,Information Technology,Savitribai Phule Pune University,2021,8.77,Microsoft Excel
+223,173,B.Com,Accounting,SPPU,2021,7.25,AWS Cloud Practitioner
+224,174,B.Tech,Information Technology,MGM University,2023,9.5,Google Data Analytics
+225,175,B.Tech,Computer Science,MGM University,2025,7.07,Google Data Analytics
+226,176,B.Tech,Computer Science,SPPU,2025,8.42,SQL
+227,177,MBA,Marketing,VTU Belagavi,2020,9.74,Tableau
+228,178,B.Tech,Information Technology,MGM University,2019,6.7,None
+229,179,B.Com,Accounting,VTU Belagavi,2020,9.44,Power BI
+230,180,B.Com,Accounting,VTU Belagavi,2022,6.9,Python
+231,181,B.Tech,Information Technology,VTU Belagavi,2025,6.97,AWS Cloud Practitioner
+232,182,BBA,Human Resources,Savitribai Phule Pune University,2024,7.66,SQL
+233,183,M.Tech,Data Science,SPPU,2022,9.76,Microsoft Excel
+234,184,B.Tech,Computer Science,Delhi University,2023,8.57,Google Data Analytics
+235,185,M.Tech,Data Science,Savitribai Phule Pune University,2022,8.61,Microsoft Excel
+236,186,B.Com,Accounting,Delhi University,2023,8.06,Power BI
+237,187,B.Tech,Information Technology,JNTU Hyderabad,2024,6.5,SQL
+238,188,MBA,Marketing,SPPU,2025,9.01,Tableau
+239,189,M.Tech,Data Science,VTU Belagavi,2017,7.38,Google Data Analytics
+240,190,B.Tech,Information Technology,VTU Belagavi,2016,9.05,AWS Cloud Practitioner
+241,191,M.Tech,Data Science,VTU Belagavi,2018,8.7,None
+242,192,B.Tech,Computer Science,Delhi University,2022,6.83,SQL
+243,193,B.Tech,Computer Science,Savitribai Phule Pune University,2025,7.89,None
+244,194,B.Tech,Information Technology,JNTU Hyderabad,2018,7.46,Power BI
+245,195,B.Com,Accounting,University of Mumbai,2019,7.48,AWS Cloud Practitioner
+246,196,MBA,Marketing,JNTU Hyderabad,2022,7.11,AWS Cloud Practitioner
+247,197,BBA,Human Resources,VTU Belagavi,2024,9.75,Google Data Analytics
+248,198,BBA,Human Resources,SPPU,2022,9.63,None
+249,199,M.Tech,Data Science,Savitribai Phule Pune University,2023,9.63,Microsoft Excel
+250,200,B.Com,Accounting,University of Mumbai,2018,7.46,Python

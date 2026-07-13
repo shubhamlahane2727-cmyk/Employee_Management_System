@@ -1,0 +1,21 @@
+JobID,JobTitle,DepartmentID,Description,MinSalary,MaxSalary
+1,HR Manager,1,Manages HR operations,70000,100000
+2,HR Executive,1,Handles recruitment and employee records,35000,60000
+3,Talent Acquisition Specialist,1,Manages hiring and onboarding,40000,65000
+4,Finance Manager,2,Oversees financial planning and budgeting,80000,120000
+5,Accountant,2,Maintains financial records and reports,40000,70000
+6,Financial Analyst,2,Analyzes financial performance,50000,85000
+7,Software Engineer,3,Develops and maintains software applications,60000,120000
+8,Senior Software Engineer,3,Leads software development projects,90000,150000
+9,Database Administrator,3,Maintains and secures databases,70000,120000
+10,System Administrator,3,Manages IT infrastructure,60000,100000
+11,Sales Executive,4,Drives product and service sales,35000,70000
+12,Sales Manager,4,Leads the sales team,70000,120000
+13,Marketing Executive,5,Executes marketing campaigns,40000,70000
+14,Digital Marketing Specialist,5,Handles online marketing strategies,50000,90000
+15,Operations Manager,6,Oversees daily business operations,80000,130000
+16,Operations Executive,6,Supports operational activities,40000,70000
+17,Customer Support Executive,7,Resolves customer queries,30000,50000
+18,Customer Support Manager,7,Manages customer support team,60000,90000
+19,Research Analyst,8,Conducts research and data analysis,50000,85000
+20,R&D Manager,8,Leads research and innovation projects,90000,140000

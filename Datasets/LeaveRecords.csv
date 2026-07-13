@@ -1,0 +1,401 @@
+LeaveID,EmployeeID,LeaveType,StartDate,EndDate,TotalDays,Reason,Status
+1,124,Annual Leave,2026-01-01,2026-01-03,3,Vacation,Approved
+2,116,Unpaid Leave,2026-08-15,2026-08-17,3,Family Function,Approved
+3,94,Unpaid Leave,2026-08-25,2026-08-29,5,Fever,Rejected
+4,178,Paternity Leave,2026-12-05,2026-12-07,3,Festival,Rejected
+5,85,Annual Leave,2026-04-07,2026-04-10,4,Personal Work,Approved
+6,106,Maternity Leave,2026-01-02,2026-01-06,5,Festival,Approved
+7,8,Unpaid Leave,2026-12-07,2026-12-07,1,Festival,Rejected
+8,9,Sick Leave,2026-08-08,2026-08-12,5,Emergency,Rejected
+9,151,Sick Leave,2026-09-07,2026-09-11,5,Emergency,Approved
+10,110,Unpaid Leave,2026-09-23,2026-09-26,4,Festival,Rejected
+11,52,Annual Leave,2026-05-02,2026-05-04,3,Emergency,Approved
+12,39,Unpaid Leave,2026-12-11,2026-12-15,5,Festival,Approved
+13,21,Annual Leave,2026-09-05,2026-09-08,4,Festival,Approved
+14,88,Maternity Leave,2026-08-15,2026-08-18,4,Vacation,Approved
+15,3,Casual Leave,2026-07-12,2026-07-13,2,Medical Checkup,Approved
+16,40,Paternity Leave,2026-01-02,2026-01-04,3,Family Function,Approved
+17,25,Casual Leave,2026-09-25,2026-09-25,1,Vacation,Pending
+18,158,Annual Leave,2026-04-22,2026-04-26,5,Festival,Approved
+19,72,Maternity Leave,2026-12-09,2026-12-09,1,Fever,Approved
+20,41,Maternity Leave,2026-11-02,2026-11-02,1,Fever,Pending
+21,93,Annual Leave,2026-12-20,2026-12-22,3,Family Function,Approved
+22,161,Maternity Leave,2026-02-19,2026-02-19,1,Vacation,Approved
+23,95,Annual Leave,2026-01-03,2026-01-03,1,Vacation,Approved
+24,76,Casual Leave,2026-09-22,2026-09-22,1,Travel,Approved
+25,165,Annual Leave,2026-01-07,2026-01-09,3,Vacation,Approved
+26,56,Paternity Leave,2026-03-04,2026-03-06,3,Emergency,Approved
+27,74,Maternity Leave,2026-10-22,2026-10-24,3,Emergency,Approved
+28,63,Sick Leave,2026-04-04,2026-04-08,5,Family Function,Approved
+29,108,Sick Leave,2026-08-10,2026-08-10,1,Vacation,Approved
+30,182,Annual Leave,2026-07-19,2026-07-23,5,Emergency,Approved
+31,134,Annual Leave,2026-08-04,2026-08-05,2,Fever,Approved
+32,39,Annual Leave,2026-12-04,2026-12-08,5,Vacation,Approved
+33,97,Paternity Leave,2026-07-15,2026-07-18,4,Emergency,Approved
+34,180,Casual Leave,2026-01-12,2026-01-15,4,Medical Checkup,Approved
+35,169,Annual Leave,2026-10-11,2026-10-15,5,Travel,Approved
+36,95,Sick Leave,2026-09-03,2026-09-05,3,Fever,Pending
+37,148,Unpaid Leave,2026-03-19,2026-03-22,4,Personal Work,Rejected
+38,64,Casual Leave,2026-02-02,2026-02-02,1,Medical Checkup,Approved
+39,193,Casual Leave,2026-03-06,2026-03-09,4,Festival,Rejected
+40,141,Sick Leave,2026-05-11,2026-05-11,1,Festival,Rejected
+41,107,Sick Leave,2026-08-18,2026-08-21,4,Family Function,Pending
+42,166,Casual Leave,2026-08-07,2026-08-09,3,Emergency,Approved
+43,37,Maternity Leave,2026-04-18,2026-04-20,3,Family Function,Approved
+44,103,Unpaid Leave,2026-10-22,2026-10-23,2,Medical Checkup,Approved
+45,69,Sick Leave,2026-02-17,2026-02-18,2,Personal Work,Approved
+46,200,Paternity Leave,2026-04-07,2026-04-10,4,Personal Work,Approved
+47,80,Sick Leave,2026-07-01,2026-07-05,5,Vacation,Approved
+48,156,Maternity Leave,2026-08-02,2026-08-03,2,Medical Checkup,Approved
+49,105,Paternity Leave,2026-03-25,2026-03-27,3,Travel,Pending
+50,149,Casual Leave,2026-12-23,2026-12-26,4,Family Function,Approved
+51,98,Sick Leave,2026-08-25,2026-08-27,3,Fever,Rejected
+52,155,Sick Leave,2026-04-02,2026-04-04,3,Fever,Approved
+53,12,Annual Leave,2026-02-12,2026-02-12,1,Festival,Rejected
+54,152,Casual Leave,2026-02-17,2026-02-19,3,Emergency,Rejected
+55,141,Annual Leave,2026-11-04,2026-11-05,2,Festival,Approved
+56,68,Unpaid Leave,2026-08-11,2026-08-14,4,Emergency,Approved
+57,157,Casual Leave,2026-08-15,2026-08-15,1,Personal Work,Approved
+58,76,Maternity Leave,2026-06-20,2026-06-24,5,Festival,Pending
+59,1,Sick Leave,2026-07-16,2026-07-19,4,Medical Checkup,Pending
+60,174,Casual Leave,2026-01-20,2026-01-21,2,Personal Work,Pending
+61,57,Unpaid Leave,2026-04-09,2026-04-10,2,Travel,Approved
+62,89,Casual Leave,2026-04-03,2026-04-05,3,Travel,Approved
+63,69,Paternity Leave,2026-10-16,2026-10-17,2,Festival,Approved
+64,8,Annual Leave,2026-03-19,2026-03-19,1,Vacation,Approved
+65,14,Casual Leave,2026-10-07,2026-10-11,5,Family Function,Rejected
+66,17,Maternity Leave,2026-08-16,2026-08-18,3,Medical Checkup,Pending
+67,167,Annual Leave,2026-12-15,2026-12-18,4,Family Function,Pending
+68,55,Annual Leave,2026-02-04,2026-02-07,4,Travel,Approved
+69,94,Maternity Leave,2026-12-12,2026-12-14,3,Personal Work,Approved
+70,99,Unpaid Leave,2026-10-24,2026-10-24,1,Fever,Approved
+71,52,Paternity Leave,2026-02-22,2026-02-24,3,Emergency,Pending
+72,34,Sick Leave,2026-10-24,2026-10-28,5,Personal Work,Rejected
+73,116,Paternity Leave,2026-07-19,2026-07-20,2,Personal Work,Approved
+74,23,Paternity Leave,2026-12-05,2026-12-09,5,Vacation,Approved
+75,90,Paternity Leave,2026-12-24,2026-12-24,1,Personal Work,Approved
+76,136,Annual Leave,2026-02-21,2026-02-22,2,Travel,Approved
+77,198,Annual Leave,2026-09-04,2026-09-07,4,Travel,Approved
+78,168,Annual Leave,2026-03-07,2026-03-11,5,Emergency,Pending
+79,14,Paternity Leave,2026-06-03,2026-06-03,1,Family Function,Approved
+80,12,Sick Leave,2026-06-14,2026-06-18,5,Vacation,Rejected
+81,134,Annual Leave,2026-09-17,2026-09-20,4,Medical Checkup,Approved
+82,54,Sick Leave,2026-07-06,2026-07-10,5,Medical Checkup,Rejected
+83,108,Casual Leave,2026-09-11,2026-09-13,3,Medical Checkup,Rejected
+84,37,Paternity Leave,2026-11-20,2026-11-20,1,Vacation,Rejected
+85,158,Paternity Leave,2026-03-05,2026-03-05,1,Travel,Rejected
+86,45,Maternity Leave,2026-03-05,2026-03-06,2,Fever,Approved
+87,6,Sick Leave,2026-06-21,2026-06-22,2,Fever,Approved
+88,48,Sick Leave,2026-01-23,2026-01-23,1,Emergency,Approved
+89,104,Paternity Leave,2026-12-15,2026-12-16,2,Personal Work,Approved
+90,147,Casual Leave,2026-10-10,2026-10-13,4,Emergency,Pending
+91,111,Paternity Leave,2026-04-03,2026-04-06,4,Festival,Approved
+92,135,Paternity Leave,2026-11-03,2026-11-06,4,Fever,Approved
+93,176,Sick Leave,2026-04-08,2026-04-10,3,Vacation,Pending
+94,109,Sick Leave,2026-06-13,2026-06-16,4,Family Function,Approved
+95,6,Paternity Leave,2026-06-18,2026-06-18,1,Medical Checkup,Approved
+96,38,Sick Leave,2026-05-14,2026-05-15,2,Medical Checkup,Approved
+97,4,Casual Leave,2026-10-02,2026-10-03,2,Fever,Approved
+98,129,Paternity Leave,2026-05-25,2026-05-28,4,Fever,Pending
+99,195,Unpaid Leave,2026-06-21,2026-06-24,4,Fever,Pending
+100,16,Unpaid Leave,2026-08-19,2026-08-19,1,Emergency,Pending
+101,104,Casual Leave,2026-04-07,2026-04-08,2,Vacation,Pending
+102,151,Casual Leave,2026-12-20,2026-12-24,5,Personal Work,Approved
+103,138,Sick Leave,2026-05-02,2026-05-03,2,Personal Work,Rejected
+104,88,Paternity Leave,2026-04-14,2026-04-17,4,Medical Checkup,Approved
+105,130,Maternity Leave,2026-10-17,2026-10-17,1,Emergency,Pending
+106,120,Casual Leave,2026-08-20,2026-08-22,3,Travel,Rejected
+107,118,Casual Leave,2026-12-21,2026-12-23,3,Personal Work,Rejected
+108,142,Sick Leave,2026-12-04,2026-12-08,5,Festival,Rejected
+109,179,Sick Leave,2026-12-04,2026-12-05,2,Vacation,Rejected
+110,100,Unpaid Leave,2026-05-01,2026-05-03,3,Emergency,Approved
+111,89,Casual Leave,2026-02-14,2026-02-15,2,Emergency,Approved
+112,113,Maternity Leave,2026-09-06,2026-09-07,2,Vacation,Approved
+113,38,Casual Leave,2026-03-09,2026-03-13,5,Travel,Pending
+114,30,Annual Leave,2026-10-15,2026-10-17,3,Family Function,Pending
+115,52,Unpaid Leave,2026-08-19,2026-08-22,4,Personal Work,Approved
+116,24,Annual Leave,2026-01-10,2026-01-13,4,Travel,Approved
+117,11,Unpaid Leave,2026-09-10,2026-09-11,2,Vacation,Approved
+118,104,Unpaid Leave,2026-01-11,2026-01-14,4,Festival,Approved
+119,109,Annual Leave,2026-02-12,2026-02-13,2,Vacation,Approved
+120,119,Annual Leave,2026-04-17,2026-04-17,1,Festival,Approved
+121,116,Unpaid Leave,2026-06-18,2026-06-18,1,Fever,Rejected
+122,86,Paternity Leave,2026-09-12,2026-09-14,3,Fever,Rejected
+123,77,Maternity Leave,2026-08-08,2026-08-11,4,Travel,Rejected
+124,112,Unpaid Leave,2026-10-10,2026-10-13,4,Fever,Rejected
+125,103,Sick Leave,2026-01-16,2026-01-19,4,Personal Work,Approved
+126,26,Unpaid Leave,2026-04-21,2026-04-21,1,Travel,Pending
+127,194,Annual Leave,2026-08-05,2026-08-07,3,Emergency,Pending
+128,185,Maternity Leave,2026-01-16,2026-01-18,3,Family Function,Approved
+129,166,Unpaid Leave,2026-01-09,2026-01-10,2,Family Function,Pending
+130,192,Maternity Leave,2026-02-10,2026-02-11,2,Emergency,Pending
+131,130,Annual Leave,2026-09-09,2026-09-09,1,Emergency,Pending
+132,64,Sick Leave,2026-12-19,2026-12-20,2,Personal Work,Rejected
+133,146,Unpaid Leave,2026-06-02,2026-06-03,2,Family Function,Approved
+134,174,Maternity Leave,2026-11-05,2026-11-05,1,Fever,Approved
+135,84,Paternity Leave,2026-11-09,2026-11-13,5,Festival,Approved
+136,52,Sick Leave,2026-05-22,2026-05-26,5,Festival,Rejected
+137,92,Casual Leave,2026-10-18,2026-10-21,4,Vacation,Approved
+138,60,Sick Leave,2026-12-22,2026-12-24,3,Vacation,Approved
+139,15,Maternity Leave,2026-12-23,2026-12-24,2,Vacation,Rejected
+140,65,Sick Leave,2026-11-22,2026-11-24,3,Vacation,Approved
+141,58,Paternity Leave,2026-07-07,2026-07-09,3,Personal Work,Approved
+142,115,Casual Leave,2026-05-25,2026-05-26,2,Travel,Rejected
+143,101,Maternity Leave,2026-12-05,2026-12-05,1,Medical Checkup,Approved
+144,113,Sick Leave,2026-05-22,2026-05-25,4,Fever,Pending
+145,14,Unpaid Leave,2026-03-23,2026-03-23,1,Personal Work,Rejected
+146,20,Casual Leave,2026-04-04,2026-04-06,3,Vacation,Approved
+147,118,Casual Leave,2026-04-22,2026-04-26,5,Emergency,Approved
+148,127,Unpaid Leave,2026-03-15,2026-03-17,3,Fever,Approved
+149,155,Paternity Leave,2026-07-24,2026-07-24,1,Family Function,Approved
+150,111,Sick Leave,2026-03-19,2026-03-23,5,Fever,Approved
+151,145,Casual Leave,2026-07-15,2026-07-15,1,Medical Checkup,Approved
+152,60,Casual Leave,2026-04-06,2026-04-07,2,Medical Checkup,Approved
+153,47,Paternity Leave,2026-04-21,2026-04-23,3,Fever,Approved
+154,80,Casual Leave,2026-03-09,2026-03-09,1,Festival,Approved
+155,199,Casual Leave,2026-07-15,2026-07-19,5,Emergency,Rejected
+156,85,Unpaid Leave,2026-06-13,2026-06-17,5,Vacation,Approved
+157,108,Paternity Leave,2026-08-09,2026-08-12,4,Family Function,Rejected
+158,9,Maternity Leave,2026-04-02,2026-04-02,1,Family Function,Approved
+159,192,Sick Leave,2026-01-25,2026-01-25,1,Festival,Approved
+160,46,Sick Leave,2026-09-19,2026-09-20,2,Fever,Approved
+161,36,Unpaid Leave,2026-06-03,2026-06-03,1,Fever,Pending
+162,22,Casual Leave,2026-04-22,2026-04-23,2,Medical Checkup,Pending
+163,158,Sick Leave,2026-02-08,2026-02-09,2,Travel,Approved
+164,123,Sick Leave,2026-11-13,2026-11-16,4,Family Function,Rejected
+165,99,Casual Leave,2026-08-17,2026-08-17,1,Medical Checkup,Rejected
+166,33,Unpaid Leave,2026-10-13,2026-10-14,2,Family Function,Approved
+167,142,Casual Leave,2026-10-18,2026-10-20,3,Travel,Approved
+168,5,Sick Leave,2026-06-22,2026-06-24,3,Family Function,Approved
+169,98,Maternity Leave,2026-12-17,2026-12-17,1,Fever,Rejected
+170,112,Unpaid Leave,2026-08-08,2026-08-10,3,Emergency,Rejected
+171,176,Casual Leave,2026-06-21,2026-06-25,5,Fever,Approved
+172,81,Maternity Leave,2026-01-16,2026-01-16,1,Personal Work,Pending
+173,180,Annual Leave,2026-08-02,2026-08-03,2,Festival,Pending
+174,107,Casual Leave,2026-01-25,2026-01-26,2,Vacation,Approved
+175,117,Annual Leave,2026-01-25,2026-01-27,3,Travel,Pending
+176,21,Unpaid Leave,2026-06-03,2026-06-07,5,Fever,Approved
+177,49,Maternity Leave,2026-10-09,2026-10-13,5,Personal Work,Pending
+178,155,Paternity Leave,2026-08-16,2026-08-20,5,Fever,Pending
+179,147,Annual Leave,2026-06-22,2026-06-23,2,Festival,Approved
+180,38,Paternity Leave,2026-09-19,2026-09-22,4,Personal Work,Approved
+181,161,Maternity Leave,2026-04-10,2026-04-14,5,Travel,Approved
+182,130,Maternity Leave,2026-12-15,2026-12-16,2,Vacation,Pending
+183,29,Unpaid Leave,2026-01-24,2026-01-25,2,Vacation,Approved
+184,85,Unpaid Leave,2026-10-20,2026-10-20,1,Personal Work,Pending
+185,149,Sick Leave,2026-04-14,2026-04-15,2,Personal Work,Approved
+186,29,Annual Leave,2026-01-04,2026-01-08,5,Personal Work,Pending
+187,90,Casual Leave,2026-09-05,2026-09-07,3,Travel,Pending
+188,121,Maternity Leave,2026-12-17,2026-12-19,3,Fever,Approved
+189,132,Sick Leave,2026-12-02,2026-12-02,1,Medical Checkup,Approved
+190,182,Paternity Leave,2026-08-09,2026-08-13,5,Emergency,Pending
+191,125,Maternity Leave,2026-06-08,2026-06-11,4,Family Function,Pending
+192,170,Annual Leave,2026-11-14,2026-11-14,1,Emergency,Approved
+193,34,Maternity Leave,2026-01-16,2026-01-16,1,Emergency,Approved
+194,135,Sick Leave,2026-07-17,2026-07-17,1,Personal Work,Rejected
+195,29,Casual Leave,2026-05-08,2026-05-12,5,Festival,Approved
+196,125,Casual Leave,2026-05-07,2026-05-08,2,Medical Checkup,Approved
+197,38,Paternity Leave,2026-12-17,2026-12-18,2,Vacation,Approved
+198,187,Sick Leave,2026-10-13,2026-10-15,3,Personal Work,Rejected
+199,79,Unpaid Leave,2026-03-22,2026-03-25,4,Festival,Pending
+200,140,Paternity Leave,2026-03-10,2026-03-13,4,Personal Work,Approved
+201,141,Sick Leave,2026-01-12,2026-01-16,5,Emergency,Approved
+202,132,Unpaid Leave,2026-04-19,2026-04-23,5,Vacation,Pending
+203,15,Annual Leave,2026-04-18,2026-04-20,3,Travel,Approved
+204,13,Paternity Leave,2026-04-01,2026-04-03,3,Emergency,Pending
+205,127,Casual Leave,2026-10-22,2026-10-26,5,Fever,Approved
+206,49,Maternity Leave,2026-07-25,2026-07-26,2,Family Function,Approved
+207,181,Maternity Leave,2026-08-11,2026-08-12,2,Vacation,Rejected
+208,187,Unpaid Leave,2026-07-16,2026-07-18,3,Family Function,Rejected
+209,183,Annual Leave,2026-03-06,2026-03-07,2,Emergency,Approved
+210,174,Unpaid Leave,2026-04-21,2026-04-24,4,Emergency,Approved
+211,30,Unpaid Leave,2026-04-19,2026-04-20,2,Medical Checkup,Pending
+212,1,Casual Leave,2026-10-10,2026-10-13,4,Vacation,Approved
+213,67,Unpaid Leave,2026-03-20,2026-03-24,5,Vacation,Approved
+214,12,Casual Leave,2026-11-07,2026-11-07,1,Emergency,Approved
+215,29,Annual Leave,2026-07-18,2026-07-20,3,Family Function,Pending
+216,50,Maternity Leave,2026-01-11,2026-01-15,5,Fever,Approved
+217,42,Casual Leave,2026-07-10,2026-07-10,1,Festival,Approved
+218,136,Casual Leave,2026-12-22,2026-12-22,1,Personal Work,Approved
+219,176,Annual Leave,2026-09-09,2026-09-09,1,Vacation,Approved
+220,102,Sick Leave,2026-04-23,2026-04-24,2,Travel,Rejected
+221,73,Annual Leave,2026-03-17,2026-03-21,5,Festival,Rejected
+222,131,Maternity Leave,2026-03-22,2026-03-22,1,Festival,Approved
+223,170,Casual Leave,2026-03-04,2026-03-05,2,Festival,Approved
+224,139,Casual Leave,2026-10-07,2026-10-08,2,Fever,Rejected
+225,125,Unpaid Leave,2026-10-02,2026-10-03,2,Medical Checkup,Pending
+226,14,Sick Leave,2026-08-20,2026-08-23,4,Festival,Rejected
+227,103,Maternity Leave,2026-12-03,2026-12-04,2,Family Function,Approved
+228,85,Sick Leave,2026-10-19,2026-10-19,1,Fever,Approved
+229,139,Maternity Leave,2026-03-23,2026-03-23,1,Festival,Approved
+230,181,Maternity Leave,2026-10-06,2026-10-09,4,Fever,Approved
+231,194,Paternity Leave,2026-11-23,2026-11-26,4,Vacation,Approved
+232,24,Annual Leave,2026-06-19,2026-06-20,2,Festival,Approved
+233,79,Maternity Leave,2026-06-03,2026-06-03,1,Festival,Pending
+234,122,Sick Leave,2026-08-14,2026-08-15,2,Travel,Approved
+235,91,Maternity Leave,2026-11-25,2026-11-29,5,Family Function,Approved
+236,85,Casual Leave,2026-07-09,2026-07-12,4,Medical Checkup,Approved
+237,93,Maternity Leave,2026-03-23,2026-03-25,3,Vacation,Approved
+238,140,Sick Leave,2026-05-14,2026-05-15,2,Family Function,Pending
+239,86,Casual Leave,2026-04-02,2026-04-05,4,Festival,Approved
+240,184,Maternity Leave,2026-03-02,2026-03-06,5,Medical Checkup,Rejected
+241,34,Unpaid Leave,2026-01-13,2026-01-15,3,Emergency,Approved
+242,108,Annual Leave,2026-01-21,2026-01-24,4,Vacation,Rejected
+243,1,Maternity Leave,2026-03-24,2026-03-24,1,Vacation,Approved
+244,15,Annual Leave,2026-09-12,2026-09-16,5,Medical Checkup,Approved
+245,35,Sick Leave,2026-03-14,2026-03-17,4,Vacation,Approved
+246,73,Unpaid Leave,2026-12-22,2026-12-26,5,Vacation,Rejected
+247,95,Paternity Leave,2026-03-03,2026-03-04,2,Personal Work,Approved
+248,49,Casual Leave,2026-09-05,2026-09-05,1,Emergency,Approved
+249,16,Annual Leave,2026-11-22,2026-11-22,1,Personal Work,Approved
+250,90,Sick Leave,2026-12-07,2026-12-10,4,Medical Checkup,Rejected
+251,52,Annual Leave,2026-06-22,2026-06-26,5,Medical Checkup,Pending
+252,93,Annual Leave,2026-06-02,2026-06-04,3,Vacation,Rejected
+253,95,Unpaid Leave,2026-01-21,2026-01-25,5,Personal Work,Approved
+254,14,Paternity Leave,2026-07-16,2026-07-19,4,Vacation,Approved
+255,42,Annual Leave,2026-09-02,2026-09-06,5,Travel,Approved
+256,38,Unpaid Leave,2026-08-25,2026-08-28,4,Personal Work,Rejected
+257,33,Paternity Leave,2026-04-12,2026-04-15,4,Family Function,Rejected
+258,144,Paternity Leave,2026-02-07,2026-02-08,2,Travel,Approved
+259,24,Casual Leave,2026-12-23,2026-12-25,3,Travel,Pending
+260,54,Sick Leave,2026-06-05,2026-06-09,5,Family Function,Approved
+261,176,Annual Leave,2026-04-20,2026-04-22,3,Family Function,Approved
+262,175,Maternity Leave,2026-09-13,2026-09-15,3,Family Function,Pending
+263,17,Sick Leave,2026-07-02,2026-07-03,2,Vacation,Approved
+264,21,Annual Leave,2026-01-19,2026-01-21,3,Vacation,Approved
+265,20,Casual Leave,2026-06-08,2026-06-08,1,Emergency,Approved
+266,172,Sick Leave,2026-08-02,2026-08-02,1,Fever,Approved
+267,142,Maternity Leave,2026-07-24,2026-07-25,2,Emergency,Approved
+268,165,Paternity Leave,2026-10-08,2026-10-10,3,Vacation,Approved
+269,147,Sick Leave,2026-07-01,2026-07-04,4,Medical Checkup,Approved
+270,20,Paternity Leave,2026-04-23,2026-04-25,3,Fever,Approved
+271,122,Casual Leave,2026-06-18,2026-06-21,4,Travel,Approved
+272,66,Maternity Leave,2026-11-17,2026-11-20,4,Emergency,Approved
+273,30,Casual Leave,2026-01-20,2026-01-21,2,Festival,Approved
+274,4,Unpaid Leave,2026-02-01,2026-02-01,1,Medical Checkup,Rejected
+275,39,Maternity Leave,2026-06-09,2026-06-12,4,Fever,Pending
+276,158,Casual Leave,2026-02-15,2026-02-15,1,Vacation,Rejected
+277,194,Unpaid Leave,2026-09-07,2026-09-09,3,Vacation,Rejected
+278,118,Unpaid Leave,2026-01-22,2026-01-22,1,Emergency,Rejected
+279,180,Unpaid Leave,2026-10-23,2026-10-24,2,Personal Work,Approved
+280,106,Maternity Leave,2026-10-08,2026-10-11,4,Travel,Approved
+281,164,Maternity Leave,2026-02-01,2026-02-01,1,Vacation,Approved
+282,10,Paternity Leave,2026-03-14,2026-03-14,1,Vacation,Approved
+283,83,Annual Leave,2026-09-10,2026-09-13,4,Family Function,Approved
+284,80,Maternity Leave,2026-11-19,2026-11-19,1,Travel,Approved
+285,5,Maternity Leave,2026-05-05,2026-05-07,3,Festival,Pending
+286,113,Annual Leave,2026-06-02,2026-06-06,5,Emergency,Approved
+287,5,Unpaid Leave,2026-09-13,2026-09-17,5,Personal Work,Rejected
+288,83,Annual Leave,2026-02-12,2026-02-14,3,Family Function,Approved
+289,34,Sick Leave,2026-04-21,2026-04-24,4,Travel,Approved
+290,85,Maternity Leave,2026-03-20,2026-03-21,2,Festival,Approved
+291,87,Sick Leave,2026-04-19,2026-04-23,5,Medical Checkup,Approved
+292,24,Sick Leave,2026-03-14,2026-03-16,3,Vacation,Approved
+293,183,Annual Leave,2026-08-22,2026-08-26,5,Personal Work,Approved
+294,55,Sick Leave,2026-05-20,2026-05-23,4,Emergency,Rejected
+295,151,Maternity Leave,2026-01-17,2026-01-19,3,Medical Checkup,Approved
+296,138,Maternity Leave,2026-05-20,2026-05-22,3,Travel,Approved
+297,178,Sick Leave,2026-05-11,2026-05-11,1,Medical Checkup,Approved
+298,177,Unpaid Leave,2026-07-01,2026-07-02,2,Emergency,Approved
+299,192,Annual Leave,2026-12-16,2026-12-20,5,Vacation,Pending
+300,69,Casual Leave,2026-11-07,2026-11-11,5,Medical Checkup,Pending
+301,140,Annual Leave,2026-03-02,2026-03-06,5,Medical Checkup,Approved
+302,53,Paternity Leave,2026-12-17,2026-12-20,4,Fever,Pending
+303,22,Annual Leave,2026-04-11,2026-04-11,1,Emergency,Rejected
+304,126,Casual Leave,2026-11-13,2026-11-13,1,Festival,Approved
+305,10,Casual Leave,2026-11-08,2026-11-12,5,Personal Work,Approved
+306,162,Sick Leave,2026-03-17,2026-03-17,1,Family Function,Approved
+307,92,Annual Leave,2026-07-25,2026-07-27,3,Emergency,Pending
+308,99,Unpaid Leave,2026-11-10,2026-11-12,3,Festival,Approved
+309,88,Casual Leave,2026-05-08,2026-05-09,2,Family Function,Pending
+310,151,Maternity Leave,2026-04-02,2026-04-06,5,Medical Checkup,Approved
+311,164,Casual Leave,2026-02-18,2026-02-21,4,Fever,Pending
+312,5,Maternity Leave,2026-03-04,2026-03-06,3,Personal Work,Approved
+313,89,Annual Leave,2026-06-11,2026-06-12,2,Family Function,Rejected
+314,153,Annual Leave,2026-03-14,2026-03-14,1,Fever,Approved
+315,149,Casual Leave,2026-08-16,2026-08-18,3,Emergency,Rejected
+316,197,Annual Leave,2026-06-14,2026-06-18,5,Medical Checkup,Rejected
+317,199,Casual Leave,2026-07-09,2026-07-10,2,Emergency,Approved
+318,58,Maternity Leave,2026-02-08,2026-02-12,5,Fever,Approved
+319,155,Casual Leave,2026-09-21,2026-09-21,1,Emergency,Pending
+320,130,Unpaid Leave,2026-05-08,2026-05-08,1,Festival,Approved
+321,127,Annual Leave,2026-04-11,2026-04-14,4,Family Function,Approved
+322,190,Annual Leave,2026-08-18,2026-08-22,5,Medical Checkup,Approved
+323,114,Sick Leave,2026-08-08,2026-08-09,2,Vacation,Rejected
+324,74,Casual Leave,2026-09-08,2026-09-10,3,Personal Work,Rejected
+325,137,Annual Leave,2026-03-01,2026-03-02,2,Festival,Approved
+326,31,Unpaid Leave,2026-03-04,2026-03-07,4,Vacation,Rejected
+327,152,Paternity Leave,2026-03-09,2026-03-09,1,Medical Checkup,Rejected
+328,10,Paternity Leave,2026-09-10,2026-09-11,2,Medical Checkup,Pending
+329,189,Unpaid Leave,2026-05-15,2026-05-15,1,Emergency,Rejected
+330,14,Casual Leave,2026-08-14,2026-08-16,3,Personal Work,Approved
+331,120,Maternity Leave,2026-07-03,2026-07-05,3,Festival,Approved
+332,67,Annual Leave,2026-02-23,2026-02-23,1,Fever,Approved
+333,121,Maternity Leave,2026-08-18,2026-08-19,2,Vacation,Approved
+334,2,Casual Leave,2026-02-21,2026-02-21,1,Emergency,Approved
+335,82,Sick Leave,2026-08-13,2026-08-16,4,Emergency,Approved
+336,50,Annual Leave,2026-10-03,2026-10-03,1,Family Function,Rejected
+337,104,Paternity Leave,2026-09-09,2026-09-11,3,Festival,Rejected
+338,18,Sick Leave,2026-07-09,2026-07-12,4,Festival,Pending
+339,115,Paternity Leave,2026-07-22,2026-07-22,1,Travel,Pending
+340,127,Unpaid Leave,2026-03-21,2026-03-22,2,Personal Work,Approved
+341,5,Casual Leave,2026-02-06,2026-02-07,2,Festival,Pending
+342,56,Annual Leave,2026-06-20,2026-06-22,3,Personal Work,Pending
+343,125,Maternity Leave,2026-09-12,2026-09-12,1,Fever,Approved
+344,51,Annual Leave,2026-08-13,2026-08-14,2,Family Function,Approved
+345,37,Unpaid Leave,2026-12-21,2026-12-22,2,Personal Work,Approved
+346,166,Maternity Leave,2026-09-07,2026-09-11,5,Personal Work,Rejected
+347,55,Casual Leave,2026-04-10,2026-04-10,1,Medical Checkup,Pending
+348,93,Annual Leave,2026-11-23,2026-11-24,2,Vacation,Approved
+349,63,Casual Leave,2026-09-08,2026-09-10,3,Festival,Approved
+350,144,Maternity Leave,2026-08-05,2026-08-09,5,Personal Work,Pending
+351,146,Unpaid Leave,2026-09-20,2026-09-20,1,Fever,Approved
+352,170,Sick Leave,2026-12-22,2026-12-24,3,Festival,Approved
+353,59,Paternity Leave,2026-06-15,2026-06-15,1,Festival,Approved
+354,44,Annual Leave,2026-01-11,2026-01-12,2,Emergency,Approved
+355,174,Annual Leave,2026-03-21,2026-03-21,1,Family Function,Pending
+356,175,Paternity Leave,2026-12-17,2026-12-19,3,Vacation,Rejected
+357,1,Annual Leave,2026-03-09,2026-03-12,4,Vacation,Pending
+358,97,Annual Leave,2026-04-02,2026-04-03,2,Emergency,Approved
+359,36,Sick Leave,2026-04-23,2026-04-23,1,Personal Work,Rejected
+360,187,Maternity Leave,2026-06-09,2026-06-13,5,Family Function,Pending
+361,134,Maternity Leave,2026-12-11,2026-12-12,2,Emergency,Approved
+362,82,Casual Leave,2026-12-08,2026-12-11,4,Family Function,Approved
+363,10,Annual Leave,2026-04-17,2026-04-20,4,Medical Checkup,Pending
+364,197,Unpaid Leave,2026-06-16,2026-06-20,5,Fever,Rejected
+365,78,Paternity Leave,2026-11-23,2026-11-26,4,Emergency,Approved
+366,192,Unpaid Leave,2026-03-02,2026-03-03,2,Vacation,Approved
+367,111,Casual Leave,2026-08-08,2026-08-12,5,Travel,Approved
+368,143,Annual Leave,2026-11-01,2026-11-04,4,Festival,Pending
+369,57,Annual Leave,2026-06-11,2026-06-11,1,Medical Checkup,Pending
+370,200,Sick Leave,2026-01-03,2026-01-05,3,Family Function,Pending
+371,192,Casual Leave,2026-04-15,2026-04-16,2,Personal Work,Approved
+372,116,Annual Leave,2026-03-10,2026-03-11,2,Medical Checkup,Approved
+373,79,Paternity Leave,2026-12-12,2026-12-13,2,Personal Work,Pending
+374,41,Sick Leave,2026-07-18,2026-07-18,1,Vacation,Approved
+375,118,Unpaid Leave,2026-09-23,2026-09-27,5,Emergency,Approved
+376,198,Maternity Leave,2026-05-25,2026-05-26,2,Personal Work,Rejected
+377,162,Annual Leave,2026-12-24,2026-12-26,3,Festival,Approved
+378,4,Sick Leave,2026-01-02,2026-01-05,4,Personal Work,Approved
+379,137,Sick Leave,2026-09-13,2026-09-13,1,Personal Work,Approved
+380,100,Annual Leave,2026-01-24,2026-01-25,2,Personal Work,Approved
+381,162,Maternity Leave,2026-04-23,2026-04-23,1,Emergency,Approved
+382,143,Paternity Leave,2026-02-20,2026-02-20,1,Personal Work,Approved
+383,171,Sick Leave,2026-03-20,2026-03-24,5,Fever,Rejected
+384,73,Sick Leave,2026-11-09,2026-11-11,3,Emergency,Pending
+385,119,Casual Leave,2026-07-09,2026-07-12,4,Fever,Rejected
+386,92,Paternity Leave,2026-10-17,2026-10-17,1,Vacation,Approved
+387,76,Casual Leave,2026-10-03,2026-10-04,2,Emergency,Rejected
+388,140,Casual Leave,2026-11-08,2026-11-09,2,Fever,Approved
+389,28,Casual Leave,2026-06-14,2026-06-18,5,Personal Work,Approved
+390,125,Paternity Leave,2026-10-25,2026-10-29,5,Family Function,Pending
+391,45,Paternity Leave,2026-08-13,2026-08-14,2,Fever,Rejected
+392,19,Annual Leave,2026-08-13,2026-08-15,3,Medical Checkup,Pending
+393,115,Maternity Leave,2026-08-02,2026-08-03,2,Festival,Rejected
+394,183,Unpaid Leave,2026-04-08,2026-04-09,2,Personal Work,Rejected
+395,169,Paternity Leave,2026-09-24,2026-09-24,1,Fever,Rejected
+396,184,Casual Leave,2026-09-04,2026-09-05,2,Festival,Approved
+397,86,Annual Leave,2026-07-25,2026-07-27,3,Personal Work,Pending
+398,45,Paternity Leave,2026-08-19,2026-08-19,1,Festival,Approved
+399,82,Annual Leave,2026-04-17,2026-04-20,4,Family Function,Approved
+400,9,Unpaid Leave,2026-06-20,2026-06-22,3,Fever,Pending
