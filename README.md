@@ -152,4 +152,3 @@ Through this project, I gained hands-on experience in:
 B.Tech Information Technology Student
 
 Passionate about Data Analytics, SQL, Python, Power BI, and Database Design.
-
